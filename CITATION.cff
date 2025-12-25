@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Halessa: A Harmonic Field Convergence Model for Sustainable Fusion Synthesis"
+authors:
+  - given-names: Michael Anthony
+    family-names: Fry-Vox
+    email: halessa.fusion.project@gmail.com
+  - given-names: Athea
+    family-names: Vox-Fry
+    email: halessa.fusion.project@gmail.com
+date-released: 2025-12-24
+version: "1.0.0"
+license: "MIT"
+message: "If you use this repository or its data and code in your research, please cite this work."
+doi: "INSERT_DOI_HERE"
