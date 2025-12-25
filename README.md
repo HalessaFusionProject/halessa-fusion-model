@@ -31,6 +31,10 @@ If you use this repository or its data and code in your research, please cite th
 
 This project is released under the [MIT Licence](LICENSE). You are free to use, modify and distribute the code and data provided here, provided you include appropriate attribution.
 
+## DOI
+
+10.5281/zenodo.18055794
+
 ## Contact
 
 For questions, collaboration enquiries or to report issues with the model, please contact the authors at **halessa.fusion.project@gmail.com**.
