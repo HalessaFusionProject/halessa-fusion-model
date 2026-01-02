@@ -1,0 +1,3 @@
+x(u, v) = (1 + 0.3 * sin(5 * v)) * cos(u)
+y(u, v) = (1 + 0.3 * sin(5 * v)) * sin(u)
+z(u, v) = sin(v) + 0.1 * sin(3 * u)
