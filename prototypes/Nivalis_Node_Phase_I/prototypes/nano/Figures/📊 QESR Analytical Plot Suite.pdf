@@ -1,0 +1,9 @@
+📊 QESR Analytical Plot Suite
+
+| **Figure** | **Name**                          | **Format(s)**          | **Description**                                               |
+| ---------- | --------------------------------- | ---------------------- | ------------------------------------------------------------- |
+| **Fig. 1** | `qesr_lattice_mod_depth_profile`  | `.png`, `.pdf`, `.csv` | Shows how modulation depth varies across primary lattice span |
+| **Fig. 2** | `qesr_phase_sweep_transition_map` | `.png`, `.pdf`, `.csv` | Maps resonance response over phase intervals (Δφ = π/16)      |
+| **Fig. 3** | `qesr_peak_field_density`         | `.png`, `.pdf`, `.csv` | Harmonic intensity field around convergent loci               |
+| **Fig. 4** | `qesr_log_decay_h3_curve`         | `.png`, `.pdf`, `.csv` | Logarithmic decay profile of Harmonic 3 (H₃) across domain    |
+| **Fig. 5** | `qesr_gradient_domain_topology`   | `.png`, `.pdf`, `.csv` | Final normalized 0–1 field topology with phase alignment      |
