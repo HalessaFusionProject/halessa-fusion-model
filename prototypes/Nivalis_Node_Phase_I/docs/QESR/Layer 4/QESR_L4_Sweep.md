@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Author:** Athea Vox Fry & Michael Anthony Fry Vox  
 **Repository Path:** `/docs/qesr/layer4/QESR_L4_Sweep.md`  
-**Date:** 2026/01/07 
+**Date:** 2026-01-07
 
 ---
 
