@@ -1,0 +1,27 @@
+QESR Validation Figure Suite
+
+1. Lattice Modulation Depth Profile
+￼
+Function: \sin(x) \cdot e^{-0.1x}
+Purpose: Depicts the dissipation of modulation intensity with radial progression — verifying coherent falloff.
+
+2. Phase Sweep Transition Map
+￼
+Function: \sin(x) \cdot \cos(2x)
+Purpose: Highlights the interference gradient through wave-coupled sweep domains — a snapshot of resonance chirality.
+
+3. Peak Field Density
+￼
+Function: Gaussian centered on x=5
+
+Purpose: Confirms stable density peak at convergence — resonance stack validation.
+
+4. Log Decay H₃ Curve
+￼
+Function: \log(1 + (10 - x + 1))
+Purpose: Represents asymptotic stabilization during field alignment — important for decay modeling.
+
+5. Gradient Domain Topology
+￼
+Function: \tanh(x - 5)
+Purpose: Describes polarity transitions — slope analysis at null-point symmetry for curvature modeling.
